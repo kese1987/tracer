@@ -16,13 +16,13 @@
 
   <dependencies>
   
-  <dependency>
-    	<groupId>com.shareshipping.utils</groupId>
-    	<artifactId>settingsManager</artifactId>
-    	<version>0.0.1-SNAPSHOT</version>
+  	<dependency>
+    		<groupId>com.shareshipping.utils</groupId>
+    		<artifactId>settingsManager</artifactId>
+    		<version>0.0.1-SNAPSHOT</version>
 	</dependency>
   
-  <dependency>
+  	<dependency>
     		<groupId>org.apache.commons</groupId>
     		<artifactId>commons-lang3</artifactId>
     		<version>3.7</version>
@@ -45,10 +45,10 @@
   
   	<!-- https://mvnrepository.com/artifact/com.netflix.governator/governator -->
 	<dependency>
-    <groupId>com.netflix.governator</groupId>
-    <artifactId>governator</artifactId>
-    <version>1.17.5</version>
-    <scope>runtime</scope>
+    		<groupId>com.netflix.governator</groupId>
+    		<artifactId>governator</artifactId>
+    		<version>1.17.5</version>
+    		<scope>runtime</scope>
 	</dependency>
   
   <!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
